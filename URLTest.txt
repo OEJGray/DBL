@@ -1,0 +1,2 @@
+*.trumpdonald.org/*
+*.hackertyper.com/*
